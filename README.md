@@ -18,13 +18,18 @@ Finally, I narrowed the list to 4 cities and an itinerary map with driving direc
 
 ![Map with Itinerary Driving Directions](https://github.com/krockway/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.png)
 
+<i>Map with Itinerary Driving Directions</i>
+
 ![Map with Itinerary City and Weather](https://github.com/krockway/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.png)
+
+<i>Map with Itinerary City and Weather</i>
 
 ## Tools & Languages
 
 * Jupyter Notebook
 * Python
 * APIs - Google Maps & Open Weather
+* JSON
 
 ## Analysis
 
